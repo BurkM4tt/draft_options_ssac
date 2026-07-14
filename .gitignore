@@ -1,0 +1,18 @@
+# Virtual environment
+draft_options/
+venv/
+.venv/
+
+# Runtime outputs
+data/
+figures/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
