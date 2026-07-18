@@ -1,4 +1,4 @@
-# draft_options_ssac
+# draft_options_nfl_ssac
 # Draft Picks as Options Contracts
 
 Data pipeline and analysis for the paper *"Draft Picks as Derivative Contracts: Applying Options Pricing Theory to NFL Draft Pick Valuation and Trade Analysis"* (Matt Burkett, Ph.D. — UVA Systems Engineering).
